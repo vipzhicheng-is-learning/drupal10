@@ -1,0 +1,5 @@
+name: 'mymodule'
+type: module
+description: 'mymodule'
+package: Custom
+core_version_requirement: ^10
